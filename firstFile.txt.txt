@@ -1,3 +1,5 @@
 hello python programming new lang added javascript and html
 new lang c++ is added
 new lang c is added
+new lang ts is added
+new lang js is added
