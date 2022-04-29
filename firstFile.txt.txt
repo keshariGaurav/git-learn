@@ -4,3 +4,4 @@ new lang c is added
 new lang ts is added
 new lang js is added
 new lang python is added
+new lang added basic
