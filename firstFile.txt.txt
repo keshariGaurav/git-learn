@@ -7,3 +7,4 @@ new lang python is added
 new lang added basic
 new lang deleted query lang
 yes new lang added in dev branch
+new lang more is added in these branch
